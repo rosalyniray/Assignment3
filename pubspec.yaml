@@ -1,0 +1,17 @@
+name: food_ordering_app
+description: A Flutter app for food ordering and order management.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.0.0+3
+  path_provider: ^2.0.12
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter

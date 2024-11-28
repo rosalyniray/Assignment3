@@ -1,0 +1,22 @@
+# Flutter/Dart/Pub specific
+.dart_tool/
+.packages
+pubspec.lock
+.idea/
+.vscode/
+build/
+.macos/
+*.iml
+*.swp
+.DS_Store
+
+# Android specific
+android/.gradle/
+android/app/debug/
+android/app/release/
+android/local.properties
+
+# iOS specific
+ios/.generated/
+ios/Flutter/.last_build_id
+ios/Pods/
